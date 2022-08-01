@@ -1,0 +1,4 @@
+- SOBRE MIM
+- 👋 Oi, sou o @santhiago1
+- 👀 Estou interessado em programar novas linguagens
+- 🌱 Eu estou aprendendo a programar recentemente a linguagem de JavaScrip e Scratch
