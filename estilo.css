@@ -2,7 +2,7 @@
     --titulo-principal:#00ff0d;
     --cor-do-texto:#2ec401;
     --cor-de-fundo:#000000;
-    --cor-do-botao:#cc0000;
+    --cor-do-botao:#ffffff;
 }
 body{
     background-color:var(--cor-de-fundo);
@@ -13,4 +13,15 @@ h1{
 *{
     margin:0;
     padding: 6px;
+}
+
+.container{
+    height: 100vh;
+}
+.container_botao{
+  background-color: var(--cor-do-botao);  
+  border-radius: 5px;
+  padding: 1em;
+  color: var(--cor-do-texto);
+  display: block;
 }
