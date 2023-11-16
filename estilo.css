@@ -24,4 +24,7 @@ h1{
   padding: 1em;
   color: var(--cor-do-texto);
   display: block;
+} 
+.container_texto{
+    color: #ffffff;
 }
